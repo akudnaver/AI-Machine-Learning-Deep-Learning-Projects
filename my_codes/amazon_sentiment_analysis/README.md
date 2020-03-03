@@ -1,8 +1,11 @@
 Goal of this Project
 ====================
 
-This dataset is basically a collection different feedback across Amazon Branded products. Idea is to gain some insight on Customer Reviews across these product and look for any improvement from negative reviews.
-Content
+This dataset is basically a collection of different feedback across Amazon Branded products. Idea is to gain some insight on Customer Reviews across these product and look for any improvement across the products from reviews.
+
+
+Content:
+========
 
 This dataset is consist of columns:
 ==================================
