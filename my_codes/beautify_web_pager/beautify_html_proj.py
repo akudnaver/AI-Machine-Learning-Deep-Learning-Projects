@@ -22,8 +22,8 @@ def table_to_df(table):
 
 res = pd.DataFrame()
 
-# Here we are only interested in the website under variable 'URL' , i will try to make it generic in the my next project for
-# you to download all the tables of the webpage using Beautiful soup function.
+# Here we are only interested in the website under variable 'URL' , i will try to make it generic in my next project for
+# you to download all the tables from any webpage using Beautiful soup function.
 
 url = "https://www.meteoschweiz.admin.ch/home/messwerte.html"
 counter = 0
